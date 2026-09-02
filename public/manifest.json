@@ -1,0 +1,17 @@
+{
+  "name": "Lớp 11A10",
+  "short_name": "11A10",
+  "description": "Không gian kỷ niệm của lớp 11A10.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/icons/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
